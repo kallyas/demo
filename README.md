@@ -1,2 +1,2 @@
-# demo
-A demo fro edu class
+# OutBox Edu Class
+A demo from edu class
